@@ -1,0 +1,1 @@
+"""AgriPlan local MVP."""
